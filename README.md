@@ -13,3 +13,5 @@ How: Development of software and apps,<br>
 What: app and software that is device-device available for everyone.</p>
 <p>4.	Hello, I'm Alex. I am a software and app developer. I have a purpose to make people's lives easier with the use of their personal devices through such software and apps. I'd be happy to explain further if you'd like, here's my business. Have a wonderful day!</p>
 
+<h2d> Week 1 Weekly Reflection </h2>
+<p> the beginning of week 1 was pretty rough. Seeing java in it's full form was very intimidating. Going through it all and taking the time to understand things (still struggling to understand) was pretty exhausting. Of course, now being day 5 of the week, I can safely say that, compared to day 1, everything makes a lot more sense. Nick is a good instructor and is pretty articulate in what he says. The reading also helped bring more understanding to what it was we were all doing. Looking forward to doing more,</p>
