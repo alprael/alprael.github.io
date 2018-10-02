@@ -8,10 +8,11 @@
 
 <p>2.	My generation was brought up by computers. Computers have always been a large part of my life and I’ve even custom built my personal computer. Going through school and getting my Hospitality and Tourism degree, I was convinced that this path would be that of my dreams. In reality, I always had this thought that I wanted to work in computer hardware or software. Went through with my degree anyway, got a job or two, even a volunteering gig, and after a few years, decided that I just didn’t like it. At this point, having used a computer everyday, I finally came up with the idea to get into the development industry. Actually, I spent some time first trying to get another job in sales, which, obviously, did not work out. The thought process of having to go back to school and learn to become a developer de-motivated me. I didn’t want to do it, and was too lazy to do it. Development was a work type I really wanted to pursue, but I just didn’t want to take the time to figure it all out. I wanted to get a sales job, and teach myself some language as I lived on. The thought process of learning a language kept me from actually learning the language. I finally decided to commit, and now I'm here 9/26/2018 taking the Java bootcamp through CNM. Finally enacting my passion for computers through learning the Java programming language, and eventually taking off my switched career path once finished.</p>
 
-<p>3.	Why: To help make people’s lives easier<br>
-How: Development of software and apps,<br>
-What: app and software that is device-device available for everyone.</p>
+<p>3.<br><strong>Why:</strong><br> To help make people’s lives easier<br>
+  <strong>How:</strong><br> Development of software and apps,<br>
+  <strong>What:</strong><br> app and software that is device-device available for everyone.</p>
 <p>4.	Hello, I'm Alex. I am a software and app developer. I have a purpose to make people's lives easier with the use of their personal devices through such software and apps. I'd be happy to explain further if you'd like, here's my business. Have a wonderful day!</p>
 
 <h2d> Week 1 Weekly Reflection </h2>
 <p> the beginning of week 1 was pretty rough. Seeing java in it's full form was very intimidating. Going through it all and taking the time to understand things (still struggling to understand) was pretty exhausting. Of course, now being day 5 of the week, I can safely say that, compared to day 1, everything makes a lot more sense. Nick is a good instructor and is pretty articulate in what he says. The reading also helped bring more understanding to what it was we were all doing. Looking forward to doing more,</p>
+</html>
