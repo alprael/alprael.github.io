@@ -17,7 +17,7 @@
   <strong>How:</strong><br> Development of software and apps,<br>
   <strong>What:</strong><br> app and software that is device-device available for everyone.</p>
    
-   <strong><h2>Elevator Pitch</h2></strong><BR
+   <strong><h2>Elevator Pitch</h2></strong><BR>
    <p>4.	Hello, I'm Alex. I am a software and app developer. I have a purpose to make people's lives easier with the use of their personal devices through such software and apps. I'd be happy to explain further if you'd like, here's my business. Have a wonderful day!</p>
 
 <h2><strong> Week 1 of Weekly Reflections</strong> </h2><BR>
