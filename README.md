@@ -1,7 +1,7 @@
 # alprael.github.io
 <html>
   <h1><strong>ProDev Story</strong></h1> <BR><BR><BR>
-    <strong>Here is a link to my <a href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf">Resume</a><BR><BR><BR></strong>
+    <h3Here is a link to my <a href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf">Resume</a><BR><BR><BR></h3>
       <strong><h2>Qualitative vs Quanitative</h2></strong>  <BR>
    <p>Through my career I’ve spent most of my time servicing over 100 people per day in both guest services and a cashier for a hotel and cafeteria. I’ve handled, at most, up to $4000, in one day, in cash, checks, and or credit card transactions throughout my career with proper cash handling methods.  My communication was very effective to these customers, as I was very professional.. The problem I have is being too professional and sounding like a robot. I also have very good personable communication skills, which I used well with friends, co workers and management, and it was that quality that was missed out in my customer service. Before leaving my last job, my manager told me that my communication skills were great but faltered with the guests since I just sounded monotone.</p>
 
@@ -23,7 +23,16 @@
 <h2><strong> Week 1 of Weekly Reflections</strong> </h2><BR>
   <p> The beginning of week 1 was pretty rough. Seeing java in it's full form was very intimidating. Going through it all and taking the time to understand things (still struggling to understand) was pretty exhausting. Of course, now being day 5 of the week, I can safely say that, compared to day 1, everything makes a lot more sense. Nick is a good instructor and is pretty articulate in what he says. The reading also helped bring more understanding to what it was we were all doing. Looking forward to doing more,</p>
 
-<strong><p><a href="https://github.com/alprael/Stove-top-burners">My Stove Top Burners</a> (with instructions on how to accomplish these goals.)</p></strong>
+</h3><p><a href="https://github.com/alprael/Stove-top-burners">My Stove Top Burners</a> (with instructions on how to accomplish these goals.)</p></h3>
+
+<strong><h2>Organization Research (not-for-profit)</h2></strong><BR>
+  <p>1. Visit Albuquerque
+  <ul><li>Contact: Roxanne Cisneros</li>
+    <li>Contact info: cisneros@visitalbuquerque.org,  505-842-9918 ext. 3304</li>
+    <li><a href="http://visitalbuquerque.org">A link to their website</a></li>
+    <li>I use to volunteer for this organization. I also use to keep an eye on their employment opportunities since at the time I was passionate about the tourism industry in Albuquerque. Roxanne was the volunteer coordinator, who I got to know pretty well, and I just found out recently that she is still the volunteer coordinator.</li>
+    <li>Reach to Roxanne via phone or email in an attempt to retrieve contact information for HR, or maybe to their own developers to speak with.</li></ul>
+
 
 <h2><strong>Week 2 Reflections</strong></h2><br>
 <p>Week 2 was still pretty exhausting, but not as bad as week 1. Getting use to waking up in the morning kind of. Compared to week 1, things are starting to make more sense, but still got a lot to learn. The curriculum is great, and I like the idea of spending time out of class understanding what we just saw. Our first quiz was this week, which went well. I belive it took me 3 trys to get a 90%, which was alright, but the big test is in 2 weeks. I'm confident I'll do better then. This week we also started talking more about projects.go that to decide sometime this weekend. Other than all that, everything has been well.</p>
