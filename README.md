@@ -23,7 +23,7 @@
 <h2><strong> Week 1 of Weekly Reflections</strong> </h2><BR>
   <p> The beginning of week 1 was pretty rough. Seeing java in it's full form was very intimidating. Going through it all and taking the time to understand things (still struggling to understand) was pretty exhausting. Of course, now being day 5 of the week, I can safely say that, compared to day 1, everything makes a lot more sense. Nick is a good instructor and is pretty articulate in what he says. The reading also helped bring more understanding to what it was we were all doing. Looking forward to doing more,</p>
 
-<strong><h2><p><a href="https://github.com/alprael/Stove-top-burners">My Stove Topo Burners</a></p></h2></strong>
+<strong><h2><p><a href="https://github.com/alprael/Stove-top-burners">My Stove Top Burners</a>(with instructions on how to accomplish these goals.</p></h2></strong>
 
 <h2><strong>Week 2 Reflections</strong></h2><br>
 <p>Week 2 was still pretty exhausting, but not as bad as week 1. Getting use to waking up in the morning kind of. Compared to week 1, things are starting to make more sense, but still got a lot to learn. The curriculum is great, and I like the idea of spending time out of class understanding what we just saw. Our first quiz was this week, which went well. I belive it took me 3 trys to get a 90%, which was alright, but the big test is in 2 weeks. I'm confident I'll do better then. This week we also started talking more about projects.go that to decide sometime this weekend. Other than all that, everything has been well.</p>
