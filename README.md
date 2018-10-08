@@ -2,7 +2,7 @@
 <html>
   <h1><strong>ProDev Story</strong></h1> <BR><BR><BR>
     <h3>Here is a link to my <a href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf">Resume</a></h3><BR><BR><BR>
-      <strong><h3>Qualitative vs Quanitative</h3></strong>  <BR>
+      <h3><strong>Qualitative vs Quanitative</strong></h3>  <BR>
    <p>Through my career I’ve spent most of my time servicing over 100 people per day in both guest services and a cashier for a hotel and cafeteria. I’ve handled, at most, up to $4000, in one day, in cash, checks, and or credit card transactions throughout my career with proper cash handling methods.  My communication was very effective to these customers, as I was very professional.. The problem I have is being too professional and sounding like a robot. I also have very good personable communication skills, which I used well with friends, co workers and management, and it was that quality that was missed out in my customer service. Before leaving my last job, my manager told me that my communication skills were great but faltered with the guests since I just sounded monotone.</p>
 
    <p>In customer service, resolving customer complaints is a big deal. No matter how good the product can be, there are still user issues for multiple aspects of the product that customers will complain on. At my previous workplace, a portion of my 100, or more, per day customer base would come to my co workers and I with their frustrations and complaints. It was up to us to understand the issues fully, and resolve them the best we can. Proper training was given for certain issues, but people are unpredictable, and knowing the answer for the complaint doesn't mean it's the right answer for the customer. I was very good at resolving issues, but my biggest problem was actually listening fully, and understanding what it was people actually wanted, (free stuff.)</p>
@@ -12,12 +12,12 @@
    <h3><strong>Passion Project</strong></h3><BR>
    <p>My generation was brought up by computers. Computers have always been a large part of my life and I’ve even custom built my personal computer. Going through school and getting my Hospitality and Tourism degree, I was convinced that this path would be that of my dreams. In reality, I always had this thought that I wanted to work in computer hardware or software. Went through with my degree anyway, got a job or two, even a volunteering gig, and after a few years, decided that I just didn’t like it. At this point, having used a computer everyday, I finally came up with the idea to get into the development industry. Actually, I spent some time first trying to get another job in sales, which, obviously, did not work out. The thought process of having to go back to school and learn to become a developer de-motivated me. I didn’t want to do it, and was too lazy to do it. Development was a work type I really wanted to pursue, but I just didn’t want to take the time to figure it all out. I wanted to get a sales job, and teach myself some language as I lived on. The thought process of learning a language kept me from actually learning the language. I finally decided to commit, and now I'm here 9/26/2018 taking the Java bootcamp through CNM. Finally enacting my passion for computers through learning the Java programming language, and eventually taking off my switched career path once finished.</p><BR>
 
-   <strong><h3>Golden Circle</h3></strong><BR>
+   <h3><strong>Golden Circle</strong></h3><BR>
    <p><br><strong>Why:</strong><br> To help make people’s lives easier<br>
   <strong>How:</strong><br> Development of software and apps,<br>
   <strong>What:</strong><br> app and software that is device-device available for everyone.</p><BR>
    
-   <strong><h3>Elevator Pitch</h3></strong><BR>
+   <h3><strong>Elevator Pitch</strong></h3><BR>
    <p>Hello, I'm Alex. I am a software and app developer. I have a purpose to make people's lives easier with the use of their personal devices through such software and apps. I'd be happy to explain further if you'd like, here's my business. Have a wonderful day!</p><BR>
 
 <h2><strong> Week 1 of Weekly Reflections</strong> </h2><BR>
@@ -25,7 +25,7 @@
 
 <h3><p><a href="https://github.com/alprael/Stove-top-burners">My Stove Top Burners</a> (with instructions on how to accomplish these goals.)</p></h3>
 
-<strong><h3>Organization Research</h3></strong><BR>
+<h3><strong>Organization Research</strong></h3><BR>
   <p><strong>1. Visit Albuquerque (not-for-profit)</strong>
   <ul><li>Contact: Roxanne Cisneros</li>
     <li>Contact info: cisneros@visitalbuquerque.org,  505-842-9918 ext. 3304</li>
