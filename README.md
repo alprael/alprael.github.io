@@ -35,7 +35,7 @@
   <p><strong>2. Amore Pizzeria (for profit)</strong>
   <ul><li>Contact: Gabriel Amador</li>
     <li>Contact info: info@amoreabq.com</li>
-    
+    <li><a href="https://www.amoreabq.com/">A link to their website</a></li>
    <li>I was thinking about reaching out to a local restaurant and see if I can offer assistance in the creation of some sort rewards program they could offer to their customers. All the point systems and user account information would have to be stored server which I'd be happy to help them maintain. Possibly also develop an Amore app.</li>
    <li>Would contact Gabriel directly, explain my thought process to him and see how he reacts, or maybe get him to share some of ideas similar to the subject.</li></ul></p><BR>
 
