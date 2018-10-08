@@ -25,14 +25,19 @@
 
 </h3><p><a href="https://github.com/alprael/Stove-top-burners">My Stove Top Burners</a> (with instructions on how to accomplish these goals.)</p></h3>
 
-<strong><h2>Organization Research (not-for-profit)</h2></strong><BR>
-  <p>1. Visit Albuquerque
+<strong><h2>Organization Research</h2></strong><BR>
+  <p><strong>1. Visit Albuquerque (not-for-profit)</strong>
   <ul><li>Contact: Roxanne Cisneros</li>
     <li>Contact info: cisneros@visitalbuquerque.org,  505-842-9918 ext. 3304</li>
     <li><a href="http://visitalbuquerque.org">A link to their website</a></li>
     <li>I use to volunteer for this organization. I also use to keep an eye on their employment opportunities since at the time I was passionate about the tourism industry in Albuquerque. Roxanne was the volunteer coordinator, who I got to know pretty well, and I just found out recently that she is still the volunteer coordinator.</li>
-    <li>Reach to Roxanne via phone or email in an attempt to retrieve contact information for HR, or maybe to their own developers to speak with.</li></ul>
-
+    <li>Reach to Roxanne via phone or email in an attempt to retrieve contact information for HR, or maybe to their own developers to speak with.</li></ul></p><BR>
+  <p><strong>2. Amore Pizzeria (for profit)</strong>
+  <ul><li>Contact: Gabriel Amador</li>
+    <li>Contact info: info@amoreabq.com</li>
+    <li><a href="https://www.amoreabq.com/>A link to their website</li>
+      <li>I was thinking about reaching out to a local restaurant and see if I can offer assistance in the creation of some rewards program they could offer to their customers. All the point systems and user account information would have to be stored server which I'd be happy to help them maintain. Possibly also develop an Amore app.</li>
+      <li>Would contact Gabriel directly, explain my thought process to him and see how he reacts, or maybe get him to share some of ideas similar to the subject.</li></ul><BR>
 
 <h2><strong>Week 2 Reflections</strong></h2><br>
 <p>Week 2 was still pretty exhausting, but not as bad as week 1. Getting use to waking up in the morning kind of. Compared to week 1, things are starting to make more sense, but still got a lot to learn. The curriculum is great, and I like the idea of spending time out of class understanding what we just saw. Our first quiz was this week, which went well. I belive it took me 3 trys to get a 90%, which was alright, but the big test is in 2 weeks. I'm confident I'll do better then. This week we also started talking more about projects.go that to decide sometime this weekend. Other than all that, everything has been well.</p>
