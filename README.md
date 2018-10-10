@@ -41,4 +41,6 @@
 
 <h2><strong>Week 2 Reflections</strong></h2><br>
 <p>Week 2 was still pretty exhausting, but not as bad as week 1. Getting use to waking up in the morning kind of. Compared to week 1, things are starting to make more sense, but still got a lot to learn. The curriculum is great, and I like the idea of spending time out of class understanding what we just saw. Our first quiz was this week, which went well. I belive it took me 3 trys to get a 90%, which was alright, but the big test is in 2 weeks. I'm confident I'll do better then. This week we also started talking more about projects.go that to decide sometime this weekend. Other than all that, everything has been well.</p>
-      
+
+<h2><strong>Career Pictures Paragraph</strong></h2>
+<img src="https://github.com/alprael/career-pics/blob/master/IMG_0736.JPG"></img>
