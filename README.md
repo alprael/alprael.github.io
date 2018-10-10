@@ -1,7 +1,7 @@
 # alprael.github.io
 <html>
   <h1><strong>ProDev Story</strong></h1> <BR><BR><BR>
-    <h3>Here is a link to my <a href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf">Resume</a></h3><BR><BR><BR>
+    <h3>Here is a link to my <a href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf" target="_blank">Resume</a></h3><BR><BR><BR>
       <h3><strong>Qualitative vs Quanitative</strong></h3>  <BR>
    <p>Through my career I’ve spent most of my time servicing over 100 people per day in both guest services and a cashier for a hotel and cafeteria. I’ve handled, at most, up to $4000, in one day, in cash, checks, and or credit card transactions throughout my career with proper cash handling methods.  My communication was very effective to these customers, as I was very professional.. The problem I have is being too professional and sounding like a robot. I also have very good personable communication skills, which I used well with friends, co workers and management, and it was that quality that was missed out in my customer service. Before leaving my last job, my manager told me that my communication skills were great but faltered with the guests since I just sounded monotone.</p>
 
@@ -23,19 +23,19 @@
 <h2><strong> Week 1 of Weekly Reflections</strong> </h2><BR>
   <p> The beginning of week 1 was pretty rough. Seeing java in it's full form was very intimidating. Going through it all and taking the time to understand things (still struggling to understand) was pretty exhausting. Of course, now being day 5 of the week, I can safely say that, compared to day 1, everything makes a lot more sense. Nick is a good instructor and is pretty articulate in what he says. The reading also helped bring more understanding to what it was we were all doing. Looking forward to doing more,</p>
 
-<h3><p><a href="http://nbviewer.jupyter.org/github/alprael/Stove-top-burners/blob/master/stove%20prodev.pdf">My Stove Top Burners</a> (with instructions on how to accomplish these goals.)</p></h3>
+<h3><p><a href="http://nbviewer.jupyter.org/github/alprael/Stove-top-burners/blob/master/stove%20prodev.pdf" target="_blank">My Stove Top Burners</a> (with instructions on how to accomplish these goals.)</p></h3>
 
 <h3><strong>Organization Research</strong></h3><BR>
   <p><strong>1. Visit Albuquerque (not-for-profit)</strong>
   <ul><li>Contact: Roxanne Cisneros</li>
     <li>Contact info: cisneros@visitalbuquerque.org,  505-842-9918 ext. 3304</li>
-    <li><a href="http://visitalbuquerque.org">A link to their website</a></li>
+    <li><a href="http://visitalbuquerque.org" target="_blank">A link to their website</a></li>
     <li>I use to volunteer for this organization. I also use to keep an eye on their employment opportunities since at the time I was passionate about the tourism industry in Albuquerque. Roxanne was the volunteer coordinator, who I got to know pretty well, and I just found out recently that she is still the volunteer coordinator.</li>
     <li>Reach to Roxanne via phone or email in an attempt to retrieve contact information for HR, or maybe to their own developers to speak with.</li></ul></p><BR>
   <p><strong>2. Amore Pizzeria (for profit)</strong>
   <ul><li>Contact: Gabriel Amador</li>
     <li>Contact info: info@amoreabq.com</li>
-    <li><a href="https://www.amoreabq.com/">A link to their website</a></li>
+    <li><a href="https://www.amoreabq.com/" target="_blank">A link to their website</a></li>
    <li>I was thinking about reaching out to a local restaurant and see if I can offer assistance in the creation of some sort rewards program they could offer to their customers. All the point systems and user account information would have to be stored server which I'd be happy to help them maintain. Possibly also develop an Amore app.</li>
    <li>Would contact Gabriel directly, explain my thought process to him and see how he reacts, or maybe get him to share some of ideas similar to the subject.</li></ul></p><BR>
 
