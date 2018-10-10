@@ -1,6 +1,7 @@
 <html>
   <h1><strong>ProDev Story</strong></h1> <BR><BR><BR>
     <h3>Here is a link to my <a target="_blank"  href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf">Resume</a></h3><BR><BR><BR>
+  <h2><strong>Purpose</strong></h2>
       <h3><strong>Qualitative vs Quanitative</strong></h3>  <BR>
    <p>Through my career I’ve spent most of my time servicing over 100 people per day in both guest services and a cashier for a hotel and cafeteria. I’ve handled, at most, up to $4000, in one day, in cash, checks, and or credit card transactions throughout my career with proper cash handling methods.  My communication was very effective to these customers, as I was very professional.. The problem I have is being too professional and sounding like a robot. I also have very good personable communication skills, which I used well with friends, co workers and management, and it was that quality that was missed out in my customer service. Before leaving my last job, my manager told me that my communication skills were great but faltered with the guests since I just sounded monotone.</p>
 
@@ -42,7 +43,7 @@
 <h2><strong>Week 2 Reflections</strong></h2><br>
 <p>Week 2 was still pretty exhausting, but not as bad as week 1. Getting use to waking up in the morning kind of. Compared to week 1, things are starting to make more sense, but still got a lot to learn. The curriculum is great, and I like the idea of spending time out of class understanding what we just saw. Our first quiz was this week, which went well. I belive it took me 3 trys to get a 90%, which was alright, but the big test is in 2 weeks. I'm confident I'll do better then. This week we also started talking more about projects.go that to decide sometime this weekend. Other than all that, everything has been well.</p><br>
 
-<h2><strong>Identity</strong></h2><BR>
+<h2><strong>Identity</strong></h2>
 <h3><strong>Career Pictures Paragraph</strong></h3>
 <img src="https://github.com/alprael/career-pics/blob/master/IMG_0736.JPG"></img>
 <p> The above images, in order from left to right, I believe portray accurately what my career is currently like, and what I expect it to be like in the future. We'll start with the picture of the table being put together. In this example the table is a work in progress, that's close to being finished. I believe the same is so for my career, I finally made my way into the deep dive bootcamp, and am now making my way through it. Now, in less than 3 months my work in progress will be accomplished. The next pictures portrays a statue which I find to represent contentment. In 3 - 5 years I want to be content with who I am and what it is I'm doing. How do I bridge the gap? Finish the bootcamp like I said, get hired in the industry and continue to build my technical experience to have the confidence to finally live contently.</p><br>
