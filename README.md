@@ -1,5 +1,6 @@
+<!DOCTYPE html>
 <html>
-  <h1><strong>ProDev Story</strong></h1> <BR><BR><BR>
+  <title>ProDev Story</strong></title> <BR><BR><BR>
     <h3>Here is a link to my <a target="_blank"  href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf">Resume</a></h3><BR><BR><BR>
   <h2><strong>Purpose</strong></h2>
       <h3><strong>Qualitative vs Quanitative</strong></h3>  <BR>
