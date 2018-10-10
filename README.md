@@ -23,6 +23,7 @@
 <h2><strong> Week 1 of Weekly Reflections</strong> </h2><BR>
   <p> The beginning of week 1 was pretty rough. Seeing java in it's full form was very intimidating. Going through it all and taking the time to understand things (still struggling to understand) was pretty exhausting. Of course, now being day 5 of the week, I can safely say that, compared to day 1, everything makes a lot more sense. Nick is a good instructor and is pretty articulate in what he says. The reading also helped bring more understanding to what it was we were all doing. Looking forward to doing more,</p>
 
+<h2><strong>Persuasion</strong></h2>
 <h3><p><a href="http://nbviewer.jupyter.org/github/alprael/Stove-top-burners/blob/master/stove%20prodev.pdf" target="_blank">My Stove Top Burners</a> (with instructions on how to accomplish these goals.)</p></h3>
 
 <h3><strong>Organization Research</strong></h3><BR>
