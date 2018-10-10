@@ -20,7 +20,7 @@
    <h3><strong>Elevator Pitch</strong></h3><BR>
    <p>Hello, I'm Alex. I am a software and app developer. I have a purpose to make people's lives easier with the use of their personal devices through such software and apps. I'd be happy to explain further if you'd like, here's my business. Have a wonderful day!</p><BR>
 
-<h2><strong> Week 1 of Weekly Reflections</strong> </h2><BR>
+<h2><strong> Week 1 of Weekly Reflections</strong> </h2>
   <p> The beginning of week 1 was pretty rough. Seeing java in it's full form was very intimidating. Going through it all and taking the time to understand things (still struggling to understand) was pretty exhausting. Of course, now being day 5 of the week, I can safely say that, compared to day 1, everything makes a lot more sense. Nick is a good instructor and is pretty articulate in what he says. The reading also helped bring more understanding to what it was we were all doing. Looking forward to doing more,</p><BR>
 
 <h2><strong>Persuasion</strong></h2>
@@ -40,7 +40,7 @@
    <li>I was thinking about reaching out to a local restaurant and see if I can offer assistance in the creation of some sort rewards program they could offer to their customers. All the point systems and user account information would have to be stored server which I'd be happy to help them maintain. Possibly also develop an Amore app.</li>
    <li>Would contact Gabriel directly, explain my thought process to him and see how he reacts, or maybe get him to share some of ideas similar to the subject.</li></ul></p><BR>
 
-<h2><strong>Week 2 Reflections</strong></h2><br>
+<h2><strong>Week 2 Reflections</strong></h2>
 <p>Week 2 was still pretty exhausting, but not as bad as week 1. Getting use to waking up in the morning kind of. Compared to week 1, things are starting to make more sense, but still got a lot to learn. The curriculum is great, and I like the idea of spending time out of class understanding what we just saw. Our first quiz was this week, which went well. I belive it took me 3 trys to get a 90%, which was alright, but the big test is in 2 weeks. I'm confident I'll do better then. This week we also started talking more about projects.go that to decide sometime this weekend. Other than all that, everything has been well.</p><br>
 
 <h2><strong>Identity</strong></h2>
