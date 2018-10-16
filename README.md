@@ -1,7 +1,8 @@
 <html>
   <h1><strong>ProDev Story</strong></h1> <BR>
-    <h3>My<a target="_blank"  href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf"> Resume </a>V.1</h3>
-  <h3>My<a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/master/AlexRael.pdf"> Resume </a> V.2</h3><BR><BR><BR>
+     <h3>My<a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/master/AlexRael.pdf"> Resume </a> V.2</h3>
+    <h4>My<a target="_blank"  href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf"> Resume </a>V.1</h4>
+ <BR><BR><BR>
   <h2><strong>Purpose</strong></h2>
       <h3><strong>Qualitative vs Quanitative</strong></h3>  <BR>
    <p>Through my career I’ve spent most of my time servicing over 100 people per day in both guest services and a cashier for a hotel and cafeteria. I’ve handled, at most, up to $4000, in one day, in cash, checks, and or credit card transactions throughout my career with proper cash handling methods.  My communication was very effective to these customers, as I was very professional.. The problem I have is being too professional and sounding like a robot. I also have very good personable communication skills, which I used well with friends, co workers and management, and it was that quality that was missed out in my customer service. Before leaving my last job, my manager told me that my communication skills were great but faltered with the guests since I just sounded monotone.</p>
