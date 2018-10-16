@@ -34,10 +34,10 @@
   <li>Find a job, or consider internship, and commit to taking the necessary steps to landing the position.</li>
   <li>Once I've beomce a developer, take the time learn the ropes of the company, and start considering a plan to move out of parents house (whether or not it's feasible at the time or later.)</li>
   <li>Finally move out, and most likely rent.</li>
-  <li>continue working, and moving forward in my career to the point where I could start living comfortably and worryfree.</li></ul></p>
+  <li>continue working, and moving forward in my career to the point where I could start living comfortably and worryfree.</li></ul></p><BR>
 
 
-<h3><strong>Organization Research</strong></h3><BR>
+<h3><strong>Organization Research</strong></h3>
   <p><strong>1. Visit Albuquerque (not-for-profit)</strong>
   <ul><li>Contact: Roxanne Cisneros</li>
     <li>Contact info: cisneros@visitalbuquerque.org,  505-842-9918 ext. 3304</li>
