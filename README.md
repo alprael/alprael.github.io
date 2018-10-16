@@ -51,3 +51,5 @@
 
 <h2><strong>Week 3 Reflections</strong></h2>
 <p>Week 3 was pretty heavy on android, which was still a pretty neat learning experience. We've started working on our personal android app projects as of Friday, and we proposed our capstone ideas. Mine wasn't too popular, but we all can't have winning ideas (for the record, it was a music sync game where objects synced tot he beats of music fly at you and you have to swipe them, poke them, or dodge them.) Getting started on Android is going to be a tough process, but I tend to not think of the process, and just take eveything one step at a time. Looking forward to SQL teachings and google auth next week.</p>
+
+<h3><a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/master/AlexRael.pdf>Resume</a> V.2</h3>
