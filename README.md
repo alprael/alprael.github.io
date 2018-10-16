@@ -1,6 +1,6 @@
 <html>
   <h1><strong>ProDev Story</strong></h1> <BR><BR><BR>
-    <h3>My<a target="_blank"  href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf">Resume V1</a></h3>
+    <h3>My<a target="_blank"  href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf">Resume</a>V.1</h3>
   <h3>My<a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/master/AlexRael.pdf">Resume</a> V.2</h3><BR><BR><BR>
   <h2><strong>Purpose</strong></h2>
       <h3><strong>Qualitative vs Quanitative</strong></h3>  <BR>
