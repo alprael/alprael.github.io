@@ -26,10 +26,15 @@
 
 <h2><strong>Persuasion</strong></h2>
 <h3><a href="http://nbviewer.jupyter.org/github/alprael/Stove-top-burners/blob/master/stove%20prodev.pdf" target="_blank">My Stove Top Burners</a></h3>
-<p><ul>
-  <li>Once I've beomce a developer</li>
-  <li>take the time learn the ropes of the company</li>
-  <li>start considering a plan to move out of parents house (whether or not it's feasible at the time or later.)</li></ul></p>
+<p>
+  My path to accomplish my goals outlined ont he stove top burners would be:
+<ul><li>Be commited to the Java bootcamp, and learn Java, android, and salesforce.</li>
+  <li>Finish the bootcamp and acquire my Oracle certification.</li>
+  <li>Work on finding employment by utilizing the professional development service provided by CNM for attending the bootcamp.</li>
+  <li>Find a job, or consider internship, and commit to taking the necessary steps to landing the position.</li>
+  <li>Once I've beomce a developer, take the time learn the ropes of the company, and start considering a plan to move out of parents house (whether or not it's feasible at the time or later.)</li>
+  <li>Finally move out, and most likely rent.</li>
+  <li>continue working, and moving forward in my career to the point where I could start living comfortably and worryfree.</li></ul></p>
 
 
 <h3><strong>Organization Research</strong></h3><BR>
