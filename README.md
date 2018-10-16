@@ -25,7 +25,7 @@
   <p> The beginning of week 1 was pretty rough. Seeing java in it's full form was very intimidating. Going through it all and taking the time to understand things (still struggling to understand) was pretty exhausting. Of course, now being day 5 of the week, I can safely say that, compared to day 1, everything makes a lot more sense. Nick is a good instructor and is pretty articulate in what he says. The reading also helped bring more understanding to what it was we were all doing. Looking forward to doing more,</p><BR>
 
 <h2><strong>Persuasion</strong></h2>
-<h3><img src="http://nbviewer.jupyter.org/github/alprael/Stove-top-burners/blob/master/stove%20prodev.pdf" target="_blank" alt="My Stovetop Burners"></h3>
+<h3> <embed src-"http://nbviewer.jupyter.org/github/alprael/Stove-top-burners/blob/master/stove%20prodev.pdf" width=”600” height=”500”> </embed></h3>
 <p>
   My path to accomplish my goals outlined ont he stove top burners would be:
 <ul><li>Be commited to the Java bootcamp, and learn Java, android, and salesforce.</li>
@@ -35,7 +35,6 @@
   <li>Once I've beomce a developer, take the time learn the ropes of the company, and start considering a plan to move out of parents house (whether or not it's feasible at the time or later.)</li>
   <li>Finally move out, and most likely rent.</li>
   <li>continue working, and moving forward in my career to the point where I could start living comfortably and worryfree.</li></ul></p><BR>
-
 
 <h3><strong>Organization Research</strong></h3>
   <p><strong>1. Visit Albuquerque (not-for-profit)</strong>
