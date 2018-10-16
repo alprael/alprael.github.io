@@ -48,8 +48,10 @@
 <img alt="career pics" src="https://rawcdn.githack.com/alprael/career-pics/master/IMG_0736.JPG">
 <p> The above images (in the main image,) in order from left to right, I believe portray accurately what my career is currently like, and what I expect it to be like in the future. We'll start with the picture of the table being put together. In this example the table is a work in progress, that's close to being finished. I believe the same is so for my career, I finally made my way into the deep dive bootcamp, and am now making my way through it. Now, in less than 3 months my work in progress will be accomplished. The next pictures portrays a statue which I find to represent contentment. In 3 - 5 years I want to be content with who I am and what it is I'm doing. How do I bridge the gap? Finish the bootcamp like I said, get hired in the industry and continue to build my technical experience to have the confidence to finally live contently.</p><br>
 
+<h3><a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/master/AlexRael.pdf>Resume</a> V.2</h3><BR>
+
 
 <h2><strong>Week 3 Reflections</strong></h2>
 <p>Week 3 was pretty heavy on android, which was still a pretty neat learning experience. We've started working on our personal android app projects as of Friday, and we proposed our capstone ideas. Mine wasn't too popular, but we all can't have winning ideas (for the record, it was a music sync game where objects synced tot he beats of music fly at you and you have to swipe them, poke them, or dodge them.) Getting started on Android is going to be a tough process, but I tend to not think of the process, and just take eveything one step at a time. Looking forward to SQL teachings and google auth next week.</p>
 
-<h3><a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/master/AlexRael.pdf>Resume</a> V.2</h3>
+
