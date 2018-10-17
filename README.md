@@ -27,8 +27,7 @@
 <h2><strong>Persuasion</strong></h2>
 <h3><strong>Stove Top Burners</strong></h3>
 <img alt="stove-top-burners" src="https://rawcdn.githack.com/alprael/prodev-pics/master/stove-top-burners.jpg">
-<p>
-  My path to accomplish my goals outlined ont he stove top burners would be:
+<p>My path to accomplish my goals outlined ont he stove top burners would be:
 <ul><li>Be commited to the Java bootcamp, and learn Java, android, and salesforce.</li>
   <li>Finish the bootcamp and acquire my Oracle certification.</li>
   <li>Work on finding employment by utilizing the professional development service provided by CNM for attending the bootcamp.</li>
