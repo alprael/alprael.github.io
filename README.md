@@ -24,7 +24,7 @@
   <p> The beginning of week 1 was pretty rough. Seeing java in it's full form was very intimidating. Going through it all and taking the time to understand things (still struggling to understand) was pretty exhausting. Of course, now being day 5 of the week, I can safely say that, compared to day 1, everything makes a lot more sense. Nick is a good instructor and is pretty articulate in what he says. The reading also helped bring more understanding to what it was we were all doing. Looking forward to doing more,</p><BR>
 
 <h2><strong>Persuasion</strong></h2>
-<h3><a href="http://nbviewer.jupyter.org/github/alprael/Stove-top-burners/blob/master/stove%20prodev.pdf">My Stove Top Burners</a></h3>
+<img src="https://rawcdn.githack.com/alprael/prodev-pics/master/stove-top-burners.jpg">
 <p>
   My path to accomplish my goals outlined ont he stove top burners would be:
 <ul><li>Be commited to the Java bootcamp, and learn Java, android, and salesforce.</li>
