@@ -2,7 +2,8 @@
   <h1><strong>Alex Rael: ProDev</strong></h1> <BR>
   <img src="https://rawcdn.githack.com/alprael/prodev-pics/master/welcome1.png"> <BR>
   <p>I'm currently taking the Java + Android + Salesforce boot camp hosted by CNM Stemulus Center located in downtown Albuquerque, New Mexico where they have various Professional Development workshops. This page is dedicated to the content I produce for those workshops. Enjoy.</p><BR>
-     <h3>My<a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/0a3f04ec46c4385ecd3431c20f0cc2be8426e03f/AlexRaelResume.pdf"> Resume </a> V.3</h3>
+     <h3>My<a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/c91910683610e4f03774e434fca596e14c7b6401/AlexRaelResume1.pdf">Resume </a>V.4</h3>
+     <h4>My<a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/0a3f04ec46c4385ecd3431c20f0cc2be8426e03f/AlexRaelResume.pdf"> Resume </a> V.3</h4>
      <h4>My<a href="https://rawcdn.githack.com/alprael/Alex_resume_deepdive/master/AlexRael.pdf"> Resume </a> V.2</h4>
     <h4>My<a target="_blank"  href="https://cdn.rawgit.com/alprael/Alex_resume_deepdive/5098d5b0/resume%204.pdf"> Resume </a>V.1</h4>
  <BR><BR><BR>
