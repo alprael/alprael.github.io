@@ -1,4 +1,5 @@
 # Alex Rael
+<img src="https://rawcdn.githack.com/alprael/project-pics/f80abd7d976f91876296d7a4f2ccbc55bce91984/JavaHeadshotAlexRael.jpg"/>
 Welcome to my Github pages. This will be a directory to the projects I'm either working on, or have worked on. Links are below:
 
 ## Professional Development: 
