@@ -12,6 +12,11 @@ workshops and activities presented to us.
 [https://alprael.github.io/ReadWithoutMe/](https://alprael.github.io/ReadWithoutMe/)
 My very own personally created Android app.
 
+## Join Me
+
+[https://projectlocus.github.io/](https://projectlocus.github.io/)
+A team based capstone project for the Java + Android bootcamp. Join Me is a Social Media invitation app focused on human scale interactions. Feel free to learn more at the link above.
+
 ## Temperature Converter:
 
 [https://alprael.github.io/TemperatureConverter/](https://alprael.github.io/TemperatureConverter/)
